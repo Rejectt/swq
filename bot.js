@@ -40,3 +40,4 @@ client.on('message', message => {
 
 
 client.login(process.env.BOT_TOKEN); 
+client2.login(process.env.BOT_TOKEN2); 
